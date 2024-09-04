@@ -1,4 +1,4 @@
-
+<h1> Olaoluwa John 🍕🍕🍳</h1>
 
 - 🌱 Hi 👋, I'm Olaoluwa john ({simple})
   
@@ -6,7 +6,7 @@
 
 - 👨‍💻 **TailwindCss, Scss, Javascript, Typescript, ReactJs, NodeJs, MongoDB, NextJs**
 
-- 💬 Lets create solutions together
+- 💬 Lets cook && make solutions together
 
 - 📫 How to reach me **olaoluwajohn06@gmail.com**
 
