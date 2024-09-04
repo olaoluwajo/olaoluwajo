@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ola Simple</h1>
+<h1 align="center"></h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 
 
-- 🌱 I’m currently building with **TailwindCss, Scss, Javascript, Typescript, ReactJs, NodeJs, MongoDB, NextJs**
+- 🌱 Hi 👋, I'm Olaoluwa john ({simple})
+  
+- 👀 FrontEnd DEveloper || Engineer
 
-- 👨‍💻 All of my projects are available at [https://github.com/olaoluwajo](https://github.com/olaoluwajo)
+- 👨‍💻 **TailwindCss, Scss, Javascript, Typescript, ReactJs, NodeJs, MongoDB, NextJs**
 
-- 💬 Ask me about **react, vue , gsap**
+- 💬 Lets create solutions together
 
 - 📫 How to reach me **olaoluwajohn06@gmail.com**
 
-- ⚡ Fun fact is**I love food**
+- ⚡ Fun fact is **I love food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
