@@ -1,6 +1,3 @@
-<h1 align="center"></h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-
 
 
 - 🌱 Hi 👋, I'm Olaoluwa john ({simple})
